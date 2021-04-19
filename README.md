@@ -1,3 +1,4 @@
+![icons8-delete-48](https://user-images.githubusercontent.com/82175847/115299806-e8484880-a17c-11eb-839f-e4a9d66c7e43.png)
 ![Light bulb-bro](https://user-images.githubusercontent.com/82175847/115298208-cc43a780-a17a-11eb-9785-0f531f124f79.png)
 ![icons8-menu-48](https://user-images.githubusercontent.com/82175847/115298428-188ee780-a17b-11eb-8d7f-5db1084e62e7.png)
 # Homepage
